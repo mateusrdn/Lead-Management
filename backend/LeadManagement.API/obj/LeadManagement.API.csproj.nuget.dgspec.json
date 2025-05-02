@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.API\\LeadManagement.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.API\\LeadManagement.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.API\\LeadManagement.API.csproj",
+        "projectName": "LeadManagement.API",
+        "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.API\\LeadManagement.API.csproj",
+        "packagesPath": "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateusnascimento_frw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.IoC\\LeadManagement.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.IoC\\LeadManagement.Infra.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj",
+        "projectName": "LeadManagement.Application",
+        "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateusnascimento_frw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj",
+        "projectName": "LeadManagement.Domain",
+        "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateusnascimento_frw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.Data\\LeadManagement.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.Data\\LeadManagement.Infra.Data.csproj",
+        "projectName": "LeadManagement.Infra.Data",
+        "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.Data\\LeadManagement.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateusnascimento_frw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj"
+              },
+              "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "None",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.28, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.28, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.IoC\\LeadManagement.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.IoC\\LeadManagement.Infra.IoC.csproj",
+        "projectName": "LeadManagement.Infra.IoC",
+        "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.IoC\\LeadManagement.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mateusnascimento_frw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj"
+              },
+              "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Domain\\LeadManagement.Domain.csproj"
+              },
+              "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.Data\\LeadManagement.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Infra.Data\\LeadManagement.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

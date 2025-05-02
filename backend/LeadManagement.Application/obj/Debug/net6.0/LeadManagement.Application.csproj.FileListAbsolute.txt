@@ -1,0 +1,15 @@
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\bin\Debug\net6.0\LeadManagement.Application.deps.json
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\bin\Debug\net6.0\LeadManagement.Application.dll
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\bin\Debug\net6.0\LeadManagement.Application.pdb
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\bin\Debug\net6.0\LeadManagement.Domain.dll
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\bin\Debug\net6.0\LeadManagement.Domain.pdb
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.csproj.AssemblyReference.cache
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.AssemblyInfoInputs.cache
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.AssemblyInfo.cs
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.csproj.CopyComplete
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.dll
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\refint\LeadManagement.Application.dll
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\LeadManagement.Application.pdb
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Application\obj\Debug\net6.0\ref\LeadManagement.Application.dll

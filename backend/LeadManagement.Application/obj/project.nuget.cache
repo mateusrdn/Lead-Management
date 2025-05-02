@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vX1kIrOT7hu2uTkPJqQvuiscLZrT/p/dJq0WKu2DC0vH4CVg0SCpCkRXistsS5gl7+4KYftMSmmOTpxgFn7Cnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mateusnascimento_frw\\Desktop\\GitHub\\Challenge\\LeadManagement\\LeadManagement.Application\\LeadManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mateusnascimento_frw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

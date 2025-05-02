@@ -1,0 +1,12 @@
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\bin\Debug\net6.0\LeadManagement.Domain.deps.json
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\bin\Debug\net6.0\LeadManagement.Domain.dll
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\bin\Debug\net6.0\LeadManagement.Domain.pdb
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\LeadManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\LeadManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\LeadManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\LeadManagement.Domain.AssemblyInfo.cs
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\LeadManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\LeadManagement.Domain.dll
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\refint\LeadManagement.Domain.dll
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\LeadManagement.Domain.pdb
+C:\Users\mateusnascimento_frw\Desktop\GitHub\Challenge\LeadManagement\LeadManagement.Domain\obj\Debug\net6.0\ref\LeadManagement.Domain.dll
