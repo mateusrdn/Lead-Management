@@ -1,0 +1,136 @@
+.card {
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 12px 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+
+  .user-logo {
+    width: 40px;
+    height: 40px;
+    background-color: #f97316;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 12px;
+  }
+
+  .user-info {
+    display: flex;
+    flex-direction: column;
+
+    .user-name {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    .job-date {
+      font-size: 14px;
+      color: #6b7280;
+      margin-top: 4px;
+    }
+  }
+}
+
+.job-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #818589;
+  padding: 8px 12px;
+
+  .location,
+  .role,
+  .job-id {
+    display: flex;
+    align-items: center;
+  }
+
+  .icon {
+    margin-right: 8px;
+    font-size: 16px;
+  }
+}
+
+.description {
+  font-size: 14px;
+  color: #818589;
+  margin-bottom: 12px;
+  line-height: 1.5;
+  padding: 8px 12px;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+
+  .actions {
+    display: flex;
+    gap: 8px;
+
+    .accept-btn {
+      background-color: #f97316;
+      color: #fff;
+      padding: 14px 20px;
+      border-radius: 4px;
+      font-weight: 600;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      border: none;
+      border-bottom: 3px solid #c1570b;
+
+      &:hover {
+        background-color: #e56b0f;
+      }
+    }
+
+    .decline-btn {
+      background-color: #e5e7eb;
+      color: #4b5563;
+      padding: 14px 20px;
+      border-radius: 4px;
+      font-weight: 600;
+      text-transform: uppercase;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+      border: none;
+      border-bottom: 3px solid #c0c2c5;
+
+      &:hover {
+        background-color: #d1d5db;
+      }
+    }
+  }
+
+  .job-value {
+    font-size: 14px;
+    font-weight: 600;
+    color: #1f2937;
+
+    .label {
+      font-weight: 400;
+      color: #6b7280;
+    }
+  }
+}

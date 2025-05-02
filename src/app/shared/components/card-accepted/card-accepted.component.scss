@@ -1,0 +1,107 @@
+.card {
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.divider {
+  border: none;
+  border-top: 1px solid #e5e7eb;
+  margin: 12px 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+
+  .user-logo {
+    width: 40px;
+    height: 40px;
+    background-color: #f97316;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    margin-right: 12px;
+  }
+
+  .user-info {
+    display: flex;
+    flex-direction: column;
+
+    .user-name {
+      font-size: 16px;
+      font-weight: 600;
+      color: #1f2937;
+    }
+
+    .job-date {
+      font-size: 14px;
+      color: #6b7280;
+      margin-top: 4px;
+    }
+  }
+}
+
+.job-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 12px;
+  font-size: 14px;
+  color: #818589;
+  padding: 8px 12px;
+
+  .location,
+  .role,
+  .job-id,
+  .job-value {
+    display: flex;
+    align-items: center;
+  }
+
+  .icon {
+    margin-right: 8px;
+    font-size: 16px;
+  }
+
+  .label {
+    font-weight: 400;
+    color: #6b7280;
+  }
+}
+
+.contact-and-description {
+  padding: 8px 12px;
+
+  .contact-info {
+    display: flex; 
+    gap: 16px; 
+    margin-bottom: 12px;
+
+    .contact-item {
+      display: flex;
+      align-items: center;
+      font-size: 14px;
+      color: #f97316  ;
+
+      .icon {
+        margin-right: 8px;
+        font-size: 16px;
+        color: black;
+      }
+    }
+  }
+
+  .description {
+    font-size: 14px;
+    color: #818589;
+    line-height: 1.5;
+  }
+}

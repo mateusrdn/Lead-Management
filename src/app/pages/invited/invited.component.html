@@ -1,0 +1,3 @@
+@for (lead of lead$ | async; track $index) {
+  <app-card-invited [lead]="lead" (acceptedResult)="acceptedLead($event)" (declineResult)="declineLead($event)"></app-card-invited>
+}

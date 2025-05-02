@@ -1,0 +1,40 @@
+<div class="card">
+  <div class="header">
+    <div class="user-logo">{{ lead?.contactFirstName[0] }}</div>
+    <div class="user-info">
+      <span class="user-name">{{ lead?.contactFullName }}</span>
+      <span class="job-date">{{ lead?.dateCreated | date: 'MMMM d y @ h:mm a' }}</span>
+    </div>
+  </div>
+
+  <hr class="divider" />
+
+  <div class="job-info">
+    <span class="location">
+      <i class="fas fa-map-marker-alt icon"></i>
+      {{ lead?.suburb }}
+    </span>
+    <span class="role">
+      <i class="fas fa-briefcase icon"></i>
+      {{ lead?.category }}
+    </span>
+    <span class="job-id">Job ID: {{ lead?.jobId }}</span>
+    <span class="job-value">{{ lead?.price | currency }} <span class="label"> Lead Invitation</span></span>
+  </div>
+
+  <hr class="divider" />
+
+  <div class="contact-and-description">
+    <div class="contact-info">
+      <div class="contact-item">
+        <i class="fas fa-phone icon"></i>
+        <span>{{ lead?.contactPhoneNumber }}</span>
+      </div>
+      <div class="contact-item">
+        <i class="fas fa-envelope icon"></i>
+        <span>{{ lead?.contactEmail }}</span>
+      </div>
+    </div>
+    <div class="description">{{ lead?.description }}</div>
+  </div>
+</div>
